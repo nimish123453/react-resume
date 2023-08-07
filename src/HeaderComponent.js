@@ -10,7 +10,10 @@ export default function HeaderCompnent(props){
           <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Introduction</a>
+                <a class="nav-link active" aria-current="page" href="nimish.srivastava.100@gamil.com">Email</a>
+              </li>
+             <li class="nav-item">
+                <a class="nav-link">Phone:+91-8397071167</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://github.com/nimish123453">Github</a>
